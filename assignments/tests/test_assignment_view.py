@@ -30,7 +30,7 @@ class TestingAssignmentView(APITestCase):
             "active": True,
             "category": 1,
             "category_link": "http://testserver/api/assignment/category/1/",
-            "create_day": "2022-06-07",
+            "create_day": "2022-06-08",
             "creator": "Ernesto",
             "description": "",
             "id": 1,
