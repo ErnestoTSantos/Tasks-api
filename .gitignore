@@ -1,0 +1,8 @@
+.mypy_cache
+__pycache__
+venv
+.env
+.docker.env
+db.sqlite3
+.coverage
+.pytest_cache
